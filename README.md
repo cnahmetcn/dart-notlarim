@@ -15,4 +15,6 @@ Bu repoda Flutter frameworkünün dili olan **Dart** programlama dilini öğrenm
 
 ## İçerikler
 
-- [Bölüm 1](tutorials/bolum1.md) -> Dart tarihçesi, temel bilgiler ve  kurulumlar
+- [Bölüm 1](tutorials/bolum1/bolum1.md) -> Dart tarihçesi, temel bilgiler ve  kurulumlar
+- [Bölüm 2](tutorials/bolum2/bolum2.md) -> Dart'a giriş, veri tipleri ve temel fonksiyonlar
+- [Bölüm 3](tutorials/bolum3/bolum3.md) -> Koşullar (If - Else / Switch - Case)
